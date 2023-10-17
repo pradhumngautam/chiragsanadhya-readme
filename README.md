@@ -1,4 +1,4 @@
-[![MasterHead]('https://i1.wp.com/stat-methods.com/wp-content/uploads/2018/12/deep-machine-learning-banner2-e1544492116205.jpg?ssl=1')](https://rishavchanda.io)
+[![MasterHead]('https://i1.wp.com/stat-methods.com/wp-content/uploads/2018/12/deep-machine-learning-banner2-e1544492116205.jpg?ssl=1')]
 <h1 align="center">Hi 👋, I'm Chirag Sanadhya</h1>
 <h3 align="center">A passionate Data Science enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cache.desktopnexus.com/thumbseg/1532/1532569-bigthumbnail.jpg">
