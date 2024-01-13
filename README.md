@@ -19,7 +19,7 @@
 <a href="https://twitter.com/https://twitter.com/chirag5114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/chirag5114" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/chirag-sanadhya-a9317b260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chirag-sanadhya-a9317b260/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/chiragsanadhya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/chiragsanadhya" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://chiragsanadhya.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://chiragsanadhya.hashnode.dev/" height="30" width="40" /></a>
+<a href="https://chiragsanadhya.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://chiragsanadhya.hashnode.dev/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
